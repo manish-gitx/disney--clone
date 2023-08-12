@@ -265,6 +265,15 @@ max-width: 600px;
   }
 
   @media screen and (max-width: 767px) {
+    .main-jpg{
+      height: auto;
+      width: 100%;
+    }
 
+
+   
+
+
+    
   
   }
